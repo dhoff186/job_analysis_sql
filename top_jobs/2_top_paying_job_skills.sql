@@ -40,7 +40,7 @@ Key findings:
 
 • 	Cloud & Infrastructure:
     - AWS, Azure, GCP. Cloud fluency is expected at director/head levels, showing the shift toward scalable ML pipelines.
-    -Kubernetes, signals demand for production-level ML deployment and orchestration.
+    - Kubernetes, signals demand for production-level ML deployment and orchestration.
 
 • 	Machine Learning Frameworks:
     - TensorFlow, PyTorch, Keras, Scikit-learn, DataRobot. Advanced ML frameworks are clustered in leadership/product roles, highlighting the need to oversee diverse ML stacks.
