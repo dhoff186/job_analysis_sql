@@ -8,7 +8,7 @@ Purpose of the project to explore the data analyst job market effectively, in wa
 
 ### Insights that I wanted to gain through my SQL queries were:
 1) What are the top-paying jobs in the field?
-2) What skills are required for these top_paying jobs?
+2) What skills are required for these top paying jobs?
 3) What skills are the most in demand for data analyst in the job market?
 4) Which skills are associated with higher salaries?
 5) What are the most optimal skills to learn?
