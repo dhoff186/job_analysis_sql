@@ -172,21 +172,21 @@ LIMIT 25;
 
 Top paying jobs
 
-![top paying jobs](assets/top_paying_jobs.png)
+![top paying jobs](top_jobs/assets/top_paying_jobs.png)
 
 
 
 Top paying job skills
 
-![top paying skills](assets/top_paying_job_skills.png)
+![top paying skills](top_jobs/assets/top_paying_job_skills.png)
 
 Top demanded skills
 
-![demand skills](assets/demanded_skills.png)
+![demand skills](top_jobs/assets/demanded_skills.png)
 
 Top paying skills
 
-![skills](assets/top_paying_skills_alt_title.png)
+![skills](top_jobs/assets/top_paying_skills_alt_title.png)
 
 
 Top 25 Optimal Skills
