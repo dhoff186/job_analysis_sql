@@ -269,10 +269,11 @@ Top 25 Optimal Skills
 
     - Snowflake ($132K), Looker ($121K), and Go ($121K) lead the salary rankings, though demand is low (2–3 postings).
     - Azure ($118K) also commands strong pay, reflecting the premium for cloud expertise.
-Best Demand + Salary Balance:
+
+    Best Demand + Salary Balance:
     - Python ($101K, 15 postings) and Power BI ($106K, 10 postings) stand out as optimal skills: high demand and high salaries.
     - SQL ($87K, 20 postings) remains the most requested skill, making it indispensable despite lower pay compared to niche tools.
 
-Lower-Paying Baseline Skills
+    Lower-Paying Baseline Skills:
     - MS Access ($54K), Outlook ($74K), and PowerPoint ($74K) sit at the bottom, showing they’re expected baseline office tools rather than differentiators.
     - These skills don’t drive salary growth but are often required for business operations.
