@@ -186,7 +186,7 @@ Top demanded skills
 
 Top paying skills
 
-![skills](assets/top_paying_skills_alt_title.png)
+![skills](assets/top_paying_skills_alt_title2.png)
 
 
 Top 25 Optimal Skills
